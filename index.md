@@ -1,4 +1,5 @@
 ## Welcome to My GitHub Page!
+This is a practice page to explore Git pages 
 
 You can use the [editor on GitHub](https://github.com/slladeau/FOSS_Profile-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
